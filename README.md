@@ -4,6 +4,7 @@ Tzu-Hsin Karen Chen et al., Migration as a Hidden Risk Factor in Seismic Fatalit
 
 ## Code for obtaining annual satellite composites
 Migration-seismic-risk.R
+https://drive.google.com/file/d/1zcLKlm7jaIeaSrO_gacP2BpGoqUaK0vm/view?usp=sharing
 
 ## Research data and results
 https://drive.google.com/drive/folders/1zcWWUHHpZJ5OLn5IsrBPm1n2whJ7Q7Ay?usp=sharing
